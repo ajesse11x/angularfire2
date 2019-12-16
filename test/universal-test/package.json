@@ -11,7 +11,7 @@
     "@angular/common": "^4.2.4",
     "@angular/compiler": "^4.2.4",
     "@angular/core": "^4.2.4",
-    "@angular/forms": "^4.2.4",
+    "@angular/forms": "^8.2.14",
     "@angular/http": "^4.2.4",
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
